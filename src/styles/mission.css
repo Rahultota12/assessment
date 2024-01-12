@@ -1,0 +1,12 @@
+
+.sub-mission{
+  margin-left: 5rem;
+}
+.mission-miles{
+  text-align: center;
+  border: 1px solid rgb(241, 98, 98);
+  border-radius: 60px 60px 0px 0px;
+  height: 15rem;
+  width: 13rem;
+ 
+}

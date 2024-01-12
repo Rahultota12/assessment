@@ -1,0 +1,36 @@
+.function-small{
+  text-align: center;
+}
+.function-small img{
+  text-align: center;
+}
+.function-small{
+  text-align: center;
+  border-top: 1px solid rgb(241, 98, 98);
+  border-radius: 60px 60px 0px 0px;
+  height: 15rem;
+  width: 15rem;
+ 
+}
+.function-smal{
+  
+  text-align: center;
+  border-bottom: 1px solid rgb(241, 98, 98);
+  border-radius: 0px 0px 60px 60px;
+  height: 12rem;
+  width: 15rem;
+}
+@media only screen and (min-width: 1200px) {
+  .buttonn{
+  border-radius: 35px;
+  width: 327px;
+  height: 57px;
+  border: 0.5px solid rgba(31, 31, 31, 1)
+  
+  
+  
+  }
+  .fun-img{
+    margin-left: 7rem;
+  }
+}

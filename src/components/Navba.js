@@ -18,7 +18,7 @@ function Navba() {
         <Navbar.Brand href="#home">EN - FR</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-            <Nav.Link className='top-center'> Bienvenue sur P<img src= {top} className='top'/> <img src={star} alt="" className='star' /> NDA</Nav.Link>
+            <Nav className='top-center'> Bienvenue sur P<img src= {top} className='top'/> <img src={star} alt="" className='star' /> NDA</Nav>
           <Nav className="ms-auto">
             <Nav.Link >Créer un compte</Nav.Link>
             <Nav.Link >Se connecter</Nav.Link>

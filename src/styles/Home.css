@@ -1,0 +1,12 @@
+.Home-heading{
+  text-align: center;
+}
+.home-small-heading{
+  color: rgb(233, 215, 212);
+}
+.home-smal-heading{
+  color: rgb(214, 211, 208);
+}
+.Home-img{
+  background-image: url('../images/Home-image-2.png');
+}
